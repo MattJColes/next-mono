@@ -1,6 +1,6 @@
 version: 1
 applications:
-  - appRoot: next/react-app
+  - appRoot: next
     frontend:
     phases:
       preBuild:
